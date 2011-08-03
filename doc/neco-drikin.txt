@@ -1,4 +1,4 @@
-*neco-drikin.txt*	A neocomplcache plugin to remind drikin is ÀÄÌÚ¹ä°ì
+*neco-drikin.txt*	A neocomplcache plugin to remind drikin is é’æœ¨å‰›ä¸€
 
 CONTENTS						*neco-drikin-contents*
 
@@ -10,7 +10,7 @@ INTRODUCTION						*neco-drikin-introduction*
 
 *neco-drikin* performs keyword completion by a person's name *drikin*. Every
 time when you type a word which matches the beginning part of the word drikin,
-this plugin shows a complete candidate ÀÄÌÚ¹ä°ì on complete popup.
+this plugin shows a complete candidate é’æœ¨å‰›ä¸€ on complete popup.
 
 ==============================================================================
 AUTHOR							*neco-drikin-author*
