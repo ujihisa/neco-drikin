@@ -1,0 +1,22 @@
+*neco-drikin.txt*	A neocomplcache plugin to remind drikin is 青木剛一
+
+CONTENTS						*neco-drikin-contents*
+
+Introduction		|neco-drikin-introduction|
+Author			|neco-drikin-author|
+
+==============================================================================
+INTRODUCTION						*neco-drikin-introduction*
+
+*neco-drikin* performs keyword completion by a person's name *drikin*. Every
+time when you type a word which matches the beginning part of the word drikin,
+this plugin shows a complete candidate 青木剛一 on complete popup.
+
+==============================================================================
+AUTHOR							*neco-drikin-author*
+
+Tatsuhiro Ujihisa
+ujihisa at gmail com
+
+==============================================================================
+vim:tw=78:ts=8:ft=help:norl:noet:fen:fdl=0:noet:
